@@ -1,3 +1,4 @@
+{% include navigation.html %}
 _Dopamine:_ Allows us to feel pleasure.
 
 ## Efficient Computing
