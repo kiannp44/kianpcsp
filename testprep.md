@@ -1,7 +1,7 @@
 {% include navigation.html %}
 _Dopamine:_ Allows us to feel pleasure.
 
-# Efficient Computing
+# Efficient Computing (5.1 - 5.2)
 * Efficient computing may remove dopamine and may make things more frustrating for the user. An example of this can be a telephone tree where most companies use to save money, time, and reduce hold times.
 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/flowchart.png)
@@ -24,7 +24,6 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 # Computing Bias (5.3)
 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/computerbias.webp)
-***
 * Computing bias is when a computer is bias on the user, this can either be intentional or unintentional. 
 > An example of this is the HP tracking technology. When there was a white woman in front of the frame, the camera would follow her, but when a black man was in the frame, the computer would not detect him.
 
@@ -33,10 +32,14 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 
 # Crowdsourcing (5.4) 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/crowdsourcing.jpeg)
-***
+
 * Crowdsourcing provides the ability to obtain information, and allows you to share that information.
 * An example of crowdsourcing is Wikipedia which has information based on multiple sources.
 
 ## Github Actions
 * A crowdsource idea that could be useful in our Del Norte community could be a type of social media type app where students share school resources with each other. For example, if someone was having trouble with their math homework, they could go on the app to see how some other students completed it. Teachers could input the work themselves or even students. 
 * I think crowdsourcing would be the best and most useful project especially at a time when computers are used so frequently. Crowdsourcing can help out a lot of people especially at Del Norte.  
+
+
+
+
