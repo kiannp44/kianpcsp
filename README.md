@@ -6,13 +6,13 @@
 
 <br>
 
-__Home:__ Homepage with Trimester 3 Timebox with weeks assignments, commits, and wiki notes.
+* __Home:__ Homepage with Trimester 3 Timebox with weeks assignments, commits, and wiki notes.
 <br>
-__Test Prep:__ Notes and Github actions. 
+* __Test Prep:__ Notes and Github actions. 
 <br>
-__Data Structures:__ Data structures project with timebox.
+* __Data Structures:__ Data structures project with timebox.
 <br>
-__Create Task:__ Collegeboard create task function with appropriate links. 
+* __Create Task:__ Collegeboard create task function with appropriate links. 
 
 <br>
 <br>
