@@ -2,7 +2,9 @@
 
 <br>
 
-##Contents-
+#Contents-
+<br>
+
 __Home:__ Homepage with Trimester 3 Timebox with weeks assignments, commits, and wiki notes.
 <br>
 __Test Prep:__ Notes and Github actions. 
