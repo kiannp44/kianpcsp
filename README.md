@@ -1,5 +1,15 @@
 # Kian Pasokhi Period 3 APCSP
 
+##Contents-
+__Home:__ Homepage with Trimester 3 Timebox with weeks assignments, commits, and wiki notes.
+<br>
+__Test Prep:__ Notes and Github actions. 
+<br>
+__Data Structures:__ Data structures project with timebox.
+<br>
+__Create Task:__ Collegeboard create task function with appropriate links. 
+
+
 
 ### Trimester 3 Timebox
 <table>
