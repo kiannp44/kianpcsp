@@ -3,6 +3,7 @@
 ## Data Structure Projects Timebox
 
 {% include DataStructuresProject.html %}
+<br>
 
 ##Week 0 Timebox
 <table>
@@ -42,8 +43,10 @@
     <td><a href="https://github.com/kiannp44/kianpcsp/commit/1ffc8246f5c2525419600d81f8158dbaf2b21372">Commit</a></td>
    </tr>
 </table>
+<br>
 
 ##Week 2 Timebox
+
 <table>
    <tr>
     <th>Task</th>
