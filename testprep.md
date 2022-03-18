@@ -1,4 +1,7 @@
 {% include navigation.html %}
+
+###Github Actions are Under the Notes of Each Topic.
+
 _Dopamine:_ Allows us to feel pleasure.
 
 # Efficient Computing (5.1 - 5.2)
