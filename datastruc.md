@@ -45,7 +45,7 @@
 </table>
 <br>
 
-## Week 2 Timebox
+## Week 1 Timebox
 
 <table>
    <tr>
