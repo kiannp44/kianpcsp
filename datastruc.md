@@ -5,7 +5,7 @@
 {% include DataStructuresProject.html %}
 <br>
 
-##Week 0 Timebox
+## Week 0 Timebox
 <table>
    <tr>
     <th>Task</th>
@@ -45,7 +45,7 @@
 </table>
 <br>
 
-##Week 2 Timebox
+## Week 2 Timebox
 
 <table>
    <tr>
