@@ -1,4 +1,10 @@
-# Menu options in print statement
+"""
+Introduction to Console Programming
+Writing a function to print a menu
+"""
+
+
+# these are the menu options in print statement format
 def print_menu1():
     print('1 -- Stringy' )
     print('2 -- Numby' )
@@ -7,7 +13,7 @@ def print_menu1():
     runOptions()
 
 
-# Menu options as a dictionary
+# these are the menu options as a dictionary
 menu_options = {
     1: 'Stringy',
     2: 'Numby',
@@ -15,7 +21,7 @@ menu_options = {
     4: 'Exit',
 }
 
-# Print menu options from dictionary key/value pair
+# this function gives the print menu options from dictionary key/value pair
 def print_menu2():
     for key in menu_options.keys():
         print(key, '--', menu_options[key] )
@@ -34,9 +40,9 @@ def listy():
     print('You chose \'3 - Listy\'')
 
 
-# call functions based on input choice
+# the call functions are based on input choice
 def runOptions():
-    # infinite loop to accept/process user menu choice
+    # there is an infinite loop to accept/process user menu choice
     while True:
         try:
             option = int(input('Enter your choice 1-4: '))
