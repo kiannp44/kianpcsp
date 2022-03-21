@@ -1,8 +1,12 @@
 {% include navigation.html %}
 
-## Data Structure Projects Timebox
+# Data Structure Projects
+<br>
+
+### Full Menu Project With Each Week Sub Categories
 
 {% include DataStructuresProject.html %}
+
 <br>
 
 ## Week 0 Timebox
@@ -56,6 +60,11 @@
     <tr>
     <td>Fibonacci</td>
     <td><a href="https://replit.com/@kiannp44/Fibonacci?v=1"> Replit</a></td>
+    <td><a href="https://github.com/kiannp44/kianpcsp/commit/8de0bc06a5ae400270c805e982894269aacae525">Commit</a></td>
+   </tr>
+    <tr>
+    <td>Lists and Loops</td>
+    <td><a href="https://replit.com/@kiannp44/Lists-and-Loops?v=1"> Replit</a></td>
     <td><a href="https://github.com/kiannp44/kianpcsp/commit/8de0bc06a5ae400270c805e982894269aacae525">Commit</a></td>
    </tr>
 </table>
