@@ -29,7 +29,7 @@
     <th>2</th>
     <td><a href="https://poway.instructure.com/courses/112335/assignments/2062669">Classy Functions</a></td>
     <td><a href=""> Commit</a></td>
-    <td><a href="https://github.com/kiannp44/kianpcsp/wiki/5.3-TPT-:-Computing-Bias"> 5.5</a> + <a href="https://github.com/kiannp44/kianpcsp/wiki/5.4-TPT:-Crowdsourcing"> 5.6</a> </td>
+    <td><a href="https://github.com/kiannp44/kianpcsp/wiki/5.5-TPT-:-Legal-and-Ethical-Concerns"> 5.5</a> + <a href="https://github.com/kiannp44/kianpcsp/wiki/5.4-TPT:-Crowdsourcing"> 5.6</a> </td>
    </tr>
 
 </table>
