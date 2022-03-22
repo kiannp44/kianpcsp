@@ -2,9 +2,8 @@
 
 ### Github Actions are Under the Notes of Each Topic.
 
-_Dopamine:_ Allows us to feel pleasure.
-
 # Efficient Computing (5.1 - 5.2)
+_Dopamine:_ Allows us to feel pleasure.
 * Efficient computing may remove dopamine and may make things more frustrating for the user. An example of this can be a telephone tree where most companies use to save money, time, and reduce hold times.
 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/flowchart.png)
