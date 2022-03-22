@@ -24,6 +24,8 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 * Someone who is empowered can help somebody else who is not empowered by sharing their resources or knowledge. At Del Norte, you could lend your resources to somebody who needs help, or you can directly give them the help they need by using your empowering devices.
 * Paper or Red Taping can be digital empowerment. You aren't really being taken away your right of knowledge, but you just have to spend more time getting around it or going through it. Examples of this at Del Norte could be the Internet block which can sometimes block useful sources. You are simply able to get around this by using a VPN.
 
+<br>
+
 # Computing Bias (5.3)
 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/computerbias.webp)
@@ -32,6 +34,8 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 
 ## Github Actions
 * The owner of the computer jokingly says its intentional, but knows it is not. This may have happened due to the color of the person and maybe didn't detect the person at all. This can be harmful, but this is for sure not on purpose. It should be corrected. What I would do is I would test and make sure it is able to detect the outline of the person rather than the color.
+
+<br>
 
 # Crowdsourcing (5.4) 
 ![](https://github.com/nighthawkcoders/nighthawk_csp/raw/master/static/assets/crowdsourcing.jpeg)
@@ -43,6 +47,8 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 * A crowdsource idea that could be useful in our Del Norte community could be a type of social media type app where students share school resources with each other. For example, if someone was having trouble with their math homework, they could go on the app to see how some other students completed it. Teachers could input the work themselves or even students. 
 * I think crowdsourcing would be the best and most useful project especially at a time when computers are used so frequently. Crowdsourcing can help out a lot of people especially at Del Norte.  
 
+<br>
+
 # 5.5 TPT : Legal and Ethical Concerns
 > **GPL: General Public Licensing:** "The GNU General Public License is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software."
 
@@ -51,6 +57,8 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 ## Github Actions
 * I noticed that in relationship to this tech talk, the licenses on the Github almost all of them have GPL (General Public Licensing). They either state that in the name or have a shortened way of saying it. I noticed there is also an MIT license similar to the one stated in the tech talk.
 * For my individual github page, I licensed it with the Apache License 2.0. I used this license because it stated that it was okay for private and public use and allowed for distribution which may be of use in this class.
+
+<br>
 
 # 5.6 TPT : Safe Computing
 
