@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-###Github Actions are Under the Notes of Each Topic.
+### Github Actions are Under the Notes of Each Topic.
 
 _Dopamine:_ Allows us to feel pleasure.
 
