@@ -43,6 +43,16 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 * A crowdsource idea that could be useful in our Del Norte community could be a type of social media type app where students share school resources with each other. For example, if someone was having trouble with their math homework, they could go on the app to see how some other students completed it. Teachers could input the work themselves or even students. 
 * I think crowdsourcing would be the best and most useful project especially at a time when computers are used so frequently. Crowdsourcing can help out a lot of people especially at Del Norte.  
 
+# 5.5 TPT : Legal and Ethical Concerns
+> **GPL: General Public Licensing:** "The GNU General Public License is a series of widely used free software licenses that guarantee end users the four freedoms to run, study, share, and modify the software."
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)
+
+## Github Actions
+* I noticed that in relationship to this tech talk, the licenses on the Github almost all of them have GPL (General Public Licensing). They either state that in the name or have a shortened way of saying it. I noticed there is also an MIT license similar to the one stated in the tech talk.
+* For my individual github page, I licensed it with the Apache License 2.0. I used this license because it stated that it was okay for private and public use and allowed for distribution which may be of use in this class.
+
+
 
 
 
