@@ -52,6 +52,23 @@ _Digital Divide:_ The gulf between those who have a computing device and those w
 * I noticed that in relationship to this tech talk, the licenses on the Github almost all of them have GPL (General Public Licensing). They either state that in the name or have a shortened way of saying it. I noticed there is also an MIT license similar to the one stated in the tech talk.
 * For my individual github page, I licensed it with the Apache License 2.0. I used this license because it stated that it was okay for private and public use and allowed for distribution which may be of use in this class.
 
+# 5.6 TPT : Safe Computing
+
+### Important Actions to Do
+* Create multi-factor authentication for financial accounts.
+* Keep tax records, ssn, etc, secret and do not over share on the internet.
+* Develop an eye for phishing and prevent it.
+* Be careful of malware and run links through a virus checker.
+
+![](https://blog.malwarebytes.com/wp-content/uploads/2018/09/shutterstock_749866270-900x506.jpg)
+
+## Github Actions
+* We created aboutme pages where we create a page about us. We list our names, school, etc...
+* I feel that it is important to keep a lot of things private including social media. I think my exposure is pretty clean as all my social medias are either privated or undeveloped.
+* Bad passwords could include your name, birthdate, username, and other really public things. Multi-factor is best way for authentication.
+* One is the use of two different keys to access something, usually a public and a secret key, while the other uses two of the same things wither its public or private.
+* The URL could be a public key to access the website, it is a use of symmetric.
+* I haven't really fell for phishing but I have seen people fall for it all the time. I see people on instagram being hacked all the time because they thought somebody was going to give them 10,000 dollars. Another phishing technique can be the use of emails to make people think they lost a package.
 
 
 
