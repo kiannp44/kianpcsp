@@ -33,9 +33,9 @@
    </tr>
 <tr>
     <th>3</th>
-    <td><a href="https://poway.instructure.com/courses/112335/assignments/2062669">__</a></td>
-    <td><a href="link"> ____</a></td>
-    <td><a href="https://github.com/kiannp44/kianpcsp/wiki/5.3-TPT-:-Computing-Bias"> __</a> + <a href="https://github.com/kiannp44/kianpcsp/wiki/5.6-TPT-:-Safe-Computing"> __</a> </td>
+    <td><a href="https://poway.instructure.com/courses/112335/assignments/2077246">Algorithmic Final</a></td>
+    <td><a href="link">Commit</a></td>
+    <td>No Notes</td>
    </tr>
 
 </table>
