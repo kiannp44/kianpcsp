@@ -27,6 +27,7 @@
     <td><a href="https://replit.com/@kiannp44/Full-Menu-Proj#Week2/mathfunction.py"> Replit</a></td>
     <td><a href="https://github.com/kiannp44/kianpcsp/commit/efffafbc7d8945c460347ecf7ddfdcc15484c4f9">Commit</a></td>
    </tr>
+   <tr>
    <td>Palindrome</td>
     <td><a href="https://replit.com/@kiannp44/Full-Menu-Proj#Week2/palindrome.py"> Replit</a></td>
     <td><a href="https://github.com/kiannp44/kianpcsp/commit/efffafbc7d8945c460347ecf7ddfdcc15484c4f9">Commit</a></td>
