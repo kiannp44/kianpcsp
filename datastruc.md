@@ -9,6 +9,30 @@
 
 <br>
 
+## Week 2 Timebox
+
+<table>
+   <tr>
+    <th>Task</th>
+    <th>Runtime</th>
+    <th>Commits</th>
+   </tr>
+    <tr>
+    <td>Factorial</td>
+    <td><a href="https://replit.com/@kiannp44/Full-Menu-Proj#Week2/factorial.py"> Replit</a></td>
+    <td><a href="https://github.com/kiannp44/kianpcsp/commit/8de0bc06a5ae400270c805e982894269aacae525">Commit</a></td>
+   </tr>
+    <tr>
+    <td>Math Function</td>
+    <td><a href="https://replit.com/@kiannp44/Full-Menu-Proj#Week2/mathfunction.py"> Replit</a></td>
+    <td><a href="https://github.com/kiannp44/kianpcsp/commit/efffafbc7d8945c460347ecf7ddfdcc15484c4f9">Commit</a></td>
+   </tr>
+   <td>Palindrome</td>
+    <td><a href="https://replit.com/@kiannp44/Full-Menu-Proj#Week2/palindrome.py"> Replit</a></td>
+    <td><a href="https://github.com/kiannp44/kianpcsp/commit/efffafbc7d8945c460347ecf7ddfdcc15484c4f9">Commit</a></td>
+   </tr>
+</table>
+
 ## Week 1 Timebox
 
 <table>
